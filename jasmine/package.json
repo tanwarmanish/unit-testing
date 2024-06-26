@@ -1,0 +1,24 @@
+{
+  "name": "jasmine",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "istanbul": "^0.4.5",
+    "jasmin": "^0.0.2",
+    "jasmine-core": "^5.1.2",
+    "karma": "^6.4.3",
+    "karma-chrome-launcher": "^3.2.0",
+    "karma-cli": "^2.0.0",
+    "karma-coverage": "^2.2.1",
+    "karma-jasmine": "^5.1.0",
+    "karma-jasmine-matchers": "^5.0.0",
+    "puppeteer": "^22.12.0"
+  }
+}
